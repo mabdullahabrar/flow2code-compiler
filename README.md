@@ -30,11 +30,11 @@ Flow2Code Compiler is an AI-powered visual programming platform that converts fl
 
 The project integrates:
 
-* Frontend Development
-* Backend APIs
-* Compiler Design
-* Artificial Intelligence
-* Machine Learning
+* Frontend Development.
+* Backend APIs.
+* Compiler Design.
+* Artificial Intelligence.
+* Machine Learning.
 
 to create a beginner-friendly coding environment.
 
