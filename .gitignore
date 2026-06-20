@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# React
+node_modules/
+
+# VSCode
+.vscode/
+
+# Build folders
+build/
+dist/
+
+# ML model files
+*.joblib
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db

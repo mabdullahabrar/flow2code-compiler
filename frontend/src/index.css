@@ -1,0 +1,28 @@
+/* Parallelogram for Input/Output */
+.shape-io {
+  clip-path: polygon(20% 0%, 100% 0%, 80% 100%, 0% 100%);
+  background: #3b82f6;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Diamond for Decision */
+.shape-decision {
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  background: #3b82f6;
+  color: white;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Rounded Rectangle for Start/Stop */
+.shape-terminal {
+  border-radius: 50px;
+  background: #3b82f6;
+  color: white;
+  padding: 10px 20px;
+}
