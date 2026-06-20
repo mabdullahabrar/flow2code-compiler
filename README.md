@@ -169,25 +169,19 @@ The compiler generates:
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 ### Home Page
 
-```text
-Insert screenshot here
-```
+![Home](images/homepage.png)
 
 ### Flowchart Editor
 
-```text
-Insert screenshot here
-```
+![Editor](images/editor.png)
 
 ### Generated Code
 
-```text
-Insert screenshot here
-```
+![Code](images/generated-code.png)
 
 ---
 
