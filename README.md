@@ -294,21 +294,6 @@ Enable dynamic model updates.
 
 Support loops, arrays, functions, and complex structures.
 
----
-
-# 👨‍💻 Team Members
-
-### Abdullah Abrar
-
-Machine Learning & Backend Development
-
-### Shehryar Zafar
-
-Frontend Development
-
-### Syed Aali
-
-Compiler Logic
 
 ---
 
